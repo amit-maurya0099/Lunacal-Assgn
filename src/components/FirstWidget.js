@@ -21,4 +21,4 @@ const FirstWidget = () => {
   )
 }
 
-export default FirstWidget
+export default FirstWidget;
